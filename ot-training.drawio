@@ -63,6 +63,34 @@
         <mxCell id="7Iob1RZWJFsLRwJdnGMj-23" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;Consent Mgmt&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="490" width="270" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="7Iob1RZWJFsLRwJdnGMj-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="25" y="640" width="810" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="7Iob1RZWJFsLRwJdnGMj-25" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;Integrations&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="640" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7Iob1RZWJFsLRwJdnGMj-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.492;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7Iob1RZWJFsLRwJdnGMj-22" target="7Iob1RZWJFsLRwJdnGMj-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="575" />
+              <mxPoint x="424" y="575" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7Iob1RZWJFsLRwJdnGMj-27" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Event&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7Iob1RZWJFsLRwJdnGMj-26">
+          <mxGeometry x="-0.4426" relative="1" as="geometry">
+            <mxPoint y="11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7Iob1RZWJFsLRwJdnGMj-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7Iob1RZWJFsLRwJdnGMj-28" target="7Iob1RZWJFsLRwJdnGMj-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7Iob1RZWJFsLRwJdnGMj-28" value="&lt;div style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased; align-content: center; align-items: center; display: flex; flex-grow: 0; min-width: 1px;&quot; class=&quot;vt-page-header__container&quot;&gt;&lt;div style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased; column-gap: 1.6rem; display: grid; flex: 1 1 0%; grid-template-columns: auto 1fr; min-width: 0px;&quot; class=&quot;vt-page-header__head&quot;&gt;&lt;h1 style=&quot;box-sizing: border-box; font-size: 16px; margin: 0px; padding: 0px; -webkit-font-smoothing: antialiased; align-self: center; color: var(--vt-dark-text); max-width: 100%; overflow: hidden; text-overflow: ellipsis; vertical-align: middle; text-wrap: nowrap; width: 87.3px;&quot; title=&quot;Credentials&quot; class=&quot;vt-page-header__title&quot;&gt;Credentials&lt;/h1&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7Iob1RZWJFsLRwJdnGMj-29" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Connections&lt;br&gt;(Workflows)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
